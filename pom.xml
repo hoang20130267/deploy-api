@@ -11,7 +11,7 @@
 	<groupId>vn.edu.hcmuaf</groupId>
 	<artifactId>apiNews</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>apiNews</name>
 	<description>Api for news</description>
 	<properties>
